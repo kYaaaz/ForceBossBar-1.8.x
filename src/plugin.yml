@@ -1,0 +1,13 @@
+name:  ForceBossBar
+author: AtomicKill7
+version: 1.0
+main: me.force.bossbar.Main
+
+commands:
+  bossBar:
+    description: ''
+
+permissions:
+  bossbar.usage:
+    description: ''
+    default: op
